@@ -1,0 +1,20 @@
+{
+  "files": {
+    "static/js/0.chunk.js": "/wp-content/themes/visual_designer/static/js/0.chunk.js",
+    "static/js/0.chunk.js.map": "/wp-content/themes/visual_designer/static/js/0.chunk.js.map",
+    "main.css": "/wp-content/themes/visual_designer/static/css/main.chunk.css",
+    "main.js": "/wp-content/themes/visual_designer/static/js/main.chunk.js",
+    "main.css.map": "/wp-content/themes/visual_designer/static/css/main.chunk.css.map",
+    "main.js.map": "/wp-content/themes/visual_designer/static/js/main.chunk.js.map",
+    "runtime-main.js": "/wp-content/themes/visual_designer/static/js/bundle.js",
+    "runtime-main.js.map": "/wp-content/themes/visual_designer/static/js/bundle.js.map",
+    "index.php": "/wp-content/themes/visual_designer/index.php",
+    "static/media/bootstrap.css": "/wp-content/themes/visual_designer/static/media/glyphicons-halflings-regular.fa277232.woff"
+  },
+  "entrypoints": [
+    "static/js/bundle.js",
+    "static/js/0.chunk.js",
+    "static/css/main.chunk.css",
+    "static/js/main.chunk.js"
+  ]
+}
